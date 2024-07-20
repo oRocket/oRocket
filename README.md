@@ -4,11 +4,11 @@
 - 🌱 Currently focusing on **Backend Development**
 - 💞️ Eager to collaborate on web app development and build amazing solutions together!
 - 📫 Reach me at:
+  - Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aotwum.at@outlook.com)
   - WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233501378473)
   - Discord: [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1116822197038755951)
   - Twitter: [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Albert_O_T)
   - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albert-opoku-twumasi-a4694b280/)
-  - Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aotwum.at@outlook.com)
 - 🏷️ Pronouns: he/him
 
 <!---
